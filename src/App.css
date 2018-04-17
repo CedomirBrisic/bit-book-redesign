@@ -1,0 +1,57 @@
+.padding10 {
+    padding: 10px;
+}
+
+.paddingt5p {
+    padding-top: 5%;
+}
+
+h3 {
+    display: inline-block;
+}
+
+.bright-shadow {
+    filter: drop-shadow(16px 16px 10px rgba(255, 255, 255, 0.9));
+    /* filter: blur(1px); */
+}
+
+.selectedPage {
+    font-size: 150%;
+    filter: drop-shadow(8px 8px 8px rgba(255, 255, 255, 0.9));
+}
+
+.dark-shadow {
+    filter: drop-shadow(30px 30px 30px rgba(0, 0, 0, 1));
+    /* filter: blur(1px); */
+}
+
+.welcome-ninja {
+    height: 50%;
+}
+
+.welcome-page {
+    filter: drop-shadow(5px 5px 5px rgba(255, 255, 255, 0.9));
+    height: 450px;
+}
+
+.post-content{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 130%;
+    padding: 2%;
+    text-align: center;
+}
+.post-alias{
+    font-size: 120%;
+    padding: 2%;
+}
+.post-comments-num{
+    font-size: 100%;
+    padding: 2%;
+}
+.margin1p{
+    margin: 1%;
+}
+.margin5p{
+    margin: 5%;
+}
+
