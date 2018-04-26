@@ -20,7 +20,7 @@ class Header extends React.Component {
                 <div className="col s4 offset-s1">
                 <div className="row">
 
-                <img className="bright-shadow"width="80px"src="https://variant.ninja/img/variant-ninja.png" alt="ninja logo"/>
+                <img className="bright-shadow"width="80px"src="https://www.codeninjas.eu/wp-content/uploads/2016/10/cnsmalllogobig.fw_.png" alt="ninja logo"/>
                     <h3 className="padding10 bright-shadow">BIT Book</h3>
                 </div>
                 </div>
